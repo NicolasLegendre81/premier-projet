@@ -1,0 +1,104 @@
+*
+{
+	text-align:center;
+}
+
+ol 
+{
+	
+	list-style:none;
+	text-align:center;
+}
+	
+
+
+h2
+{
+	font-size: 1.2em;
+    color:green;
+
+}
+li
+{
+font-family:Arbutus,Impact,"Arial black";
+font-size:1.1em;
+color:orange;
+text-align:center;
+
+}
+.introduction
+{
+ font-family:"Comic Sans MS",Arial;
+ font-size:1.2em;
+ color:yellow;
+}
+.bonjour
+{
+	font-family:Impact,Arial;
+	font-size:1.5em;
+	color:red;
+	
+}
+a
+{
+	color:blue;
+}
+strong
+{
+	font-family:Impact,Arial;
+	font-size:1.3em;
+	font-weight:bold;
+	color:grey;
+	
+}
+.lien-vers-la-page-2
+{
+	font-size:0.7em;
+	color:blue;
+}
+mark
+{
+font-family:"Comic Sans MS";
+font-size:1em;
+font-style:italic;
+font-weight:bold;
+}
+.evoluer
+{
+	font-family:"Comic Sans MS";
+	font-size:1.2em;
+	font-weight:bold;
+	color:grey;
+	text-decoration:underline;
+}
+.image-flottante
+{
+	float:center;
+}
+
+.myButton {
+	
+	box-shadow:inset 0px 4px 0px 0px #97c4fe;
+	background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
+	background-color:#3d94f6;
+	border-radius:6px;
+	border:1px solid #0065fc;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:1.5px 6px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #1570cd;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
+	background-color:#1e62d0;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
