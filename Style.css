@@ -3,6 +3,7 @@ body
 	
 	background:fixed no-repeat;
 	background-image:url("fond.jpg");
+	background: url("poetry.jpg") fixed no-repeat top-right opacity:1;
 }
 
 
