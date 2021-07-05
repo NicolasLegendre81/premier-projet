@@ -1,3 +1,12 @@
+body
+{
+	
+	background:fixed no-repeat;
+	background-image:url("fond.jpg");
+}
+
+
+
 *
 {
 	text-align:center;
@@ -22,7 +31,7 @@ li
 {
 font-family:Arbutus,Impact,"Arial black";
 font-size:1.1em;
-color:orange;
+color:navy;
 text-align:center;
 
 }
