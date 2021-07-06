@@ -3,7 +3,10 @@
 {display:block;
 }
 
-
+@font-face{
+	font-family:Arbutus;
+	src:url(c:\users\Nicolas\Appdata\Local\Microsoft\Windows\Fonts\Arbutus-Regular.tff) format("tff");
+}
 body
 {
 	
