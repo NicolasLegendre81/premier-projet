@@ -11,7 +11,7 @@ body
 {
 	height:100%;
 	width:100%;
-	background:fixed no-repeat;
+	background:fixed no-repeat height:100% width:100%;
 	background-image:url("fond.jpg");
 	background-image: url("poetry.jpg") fixed no-repeat top-right;
 	
