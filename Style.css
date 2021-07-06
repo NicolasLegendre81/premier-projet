@@ -1,3 +1,9 @@
+@media (min-width:100%)
+.contentWithSidebar__sidebar
+{display:block;
+}
+
+
 body
 {
 	width:100%;
