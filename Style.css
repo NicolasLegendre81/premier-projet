@@ -59,7 +59,7 @@ text-align:center;
 	font-size:1.5em;
 	color:black;
 	border-radius:4px/6px;
-	
+	text-shadow:2px 2px 3px white;
     border: 4px grey ;
 	box-shadow:4px 5px 6px grey;
 }
@@ -77,9 +77,39 @@ strong
 }
 .lien-vers-la-page-2
 {
-	font-size:0.7em;
-	color:blue;
+	font-size:1.2em;
+	color:white;
+	text-shadow:1px 2px 3px navy;
 }
+.bouge
+{
+	font-family:Impact,Arial;
+	color:navy;
+	text-shadow:2px 2px 4px blue;
+	font-size:1.2em;
+}
+.bouge:hover
+{
+	font-family:Impact,Arial;
+	color:white;
+	text-shadow:2px 2px 4px black;
+	font-size:1.2em;
+	font-family:italic;
+}
+.bouge:active
+{
+	color:yellow;
+	font-size:1.4em;
+	font-family:bold;
+}
+.bouge:visited
+{
+	font-family:Impact,Arial;
+	color:silver;
+	text-shadow:2px 2px 4px blue;
+	font-size:1.2em;
+}
+	
 mark
 {
 font-family:"Comic Sans MS";
@@ -119,10 +149,18 @@ font-weight:bold;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #1e62d0 5%, #3d94f6 100%);
-	background-color:#1e62d0;
+	background-color:black;
+	font-style:italic;
+	color:black;
 }
 .myButton:active {
 	position:relative;
 	top:1px;
 }
-
+.mail:hover
+{
+text-shadow:inset white 1px 2px 3px white;
+font-style:italic;
+text-decoration:underline;
+color: navy;
+}
