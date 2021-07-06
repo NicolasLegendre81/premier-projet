@@ -4,7 +4,8 @@ body
 	height:100%;
 	background:fixed no-repeat;
 	background-image:url("fond.jpg");
-	background: url("poetry.jpg") fixed no-repeat top-right opacity:1;
+	background-image: url("poetry.jpg") fixed no-repeat top-right;
+	
 }
 
 
@@ -25,6 +26,11 @@ h1
 {font-family:impact,Arial;
 	color:white;
 font-weight: bold;
+border:3px black  radius:3px/6px;
+border-radius:3px;
+box-shadow:3px 4px 6px black;
+background-color:grey;
+
 }
 
 h2
@@ -51,8 +57,11 @@ text-align:center;
 {
 	font-family:Impact,Arial;
 	font-size:1.5em;
-	color:red;
+	color:black;
+	border-radius:4px/6px;
 	
+    border: 4px grey ;
+	box-shadow:4px 5px 6px grey;
 }
 a
 {
@@ -93,7 +102,7 @@ font-weight:bold;
 
 .myButton {
 	
-	box-shadow:inset 0px 4px 0px 0px #97c4fe;
+	box-shadow:inset 3px 4px 0px 0px #97c4fe;
 	background:linear-gradient(to bottom, #3d94f6 5%, #1e62d0 100%);
 	background-color:#3d94f6;
 	border-radius:6px;
