@@ -9,7 +9,8 @@
 }
 body
 {
-	
+	height:100%;
+	width:100%;
 	background:fixed no-repeat;
 	background-image:url("fond.jpg");
 	background-image: url("poetry.jpg") fixed no-repeat top-right;
