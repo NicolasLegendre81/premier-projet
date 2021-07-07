@@ -151,7 +151,7 @@ font-weight:bold;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
-	font-size:15px;
+	font-size:15px min;
 	font-weight:bold;
 	padding:6px 12px;
 	text-decoration:none;
